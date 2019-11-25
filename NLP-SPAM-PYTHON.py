@@ -6,7 +6,7 @@ Created on Sun Nov 24 20:19:18 2019
 
 """
 """
-NLP using the Text and Label in spam dataset
+NLP in spam dataset
 """
 
 ##import the data
